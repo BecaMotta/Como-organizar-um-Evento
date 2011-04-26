@@ -25,6 +25,7 @@ Como fazer um evento no IFF
    - Pedido de pastas, papel e canetas para a quantidade de pessoas esperadas
    - Crachás?! Se sim: pedir impressão, cordão e etiquetas
    - Agua + kit palestrantes = pegar tickts e produtos na cantina
+   - Autorização para palestrantes estacionarem no interior da instituição
 
 
 3. Outros
@@ -74,4 +75,5 @@ Como fazer um evento no IFF
    - Ter separado por curso, palestra, dias...
    - Ter as assinaturas
    - Memorando para DITEX
+   - Certificados dos palestrantes prontos antecipadamente
 
